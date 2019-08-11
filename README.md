@@ -1,6 +1,6 @@
 # script-corefx
 
-ServiceStack ASP.NET Core #Script Pages Bootstrap Website on .NET Framework
+ServiceStack ASP.NET Core [#Script Pages](https://sharpscript.net/docs/sharp-pages) Bootstrap Website on .NET Framework
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/csharp-templates/script.png)](http://sharp.web-templates.io/)
 
